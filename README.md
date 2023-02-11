@@ -24,7 +24,7 @@ The console was developed in Ubuntu 22.04 LTS using python3 (version 3.10.4).
 For further information on python version, and documentation visit [python.org](https://www.python.org/).
 
 ## Requirements :memo:
-Knowledge in python3, how to use a command line interpreter, a computer with Ubuntu 22ZZ.04, python3 and pep8 style corrector.
+Knowledge in python3, how to use a command line interpreter, a computer with Ubuntu 22.04, python3 and pep8 style corrector.
 
 ## Repo Contents :clipboard:
 This repository constains the following files:
