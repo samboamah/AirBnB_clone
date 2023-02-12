@@ -130,5 +130,5 @@ HBnB - version 9.6
 To all the peers that contribuited with their knowledge
 
 ### Authors :fountain_pen:
-* Samuel Boamah - @samboamah
-* Onyiyechukwu Odidika - @onyiiye
+* Samuel Boamah - [@samboamah](https://github.com/samboamah/)
+* Onyiyechukwu Odidika - [@onyiiye](https://github.com/onyiine/)
