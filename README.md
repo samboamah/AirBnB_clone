@@ -131,4 +131,4 @@ To all the peers that contribuited with their knowledge
 
 ### Authors :fountain_pen:
 * Samuel Boamah - [@samboamah](https://github.com/samboamah/)
-* Onyiyechukwu Odidika - [@onyiiye](https://github.com/onyiine/)
+* Onyiyechukwu Odidika - [@onyiiye](https://github.com/onyiiye/)
